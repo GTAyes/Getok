@@ -1,0 +1,248 @@
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,600|Raleway:200,300,400,500,700,800
+File Name: C:\Downloaded Web Sites\spectral.website\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\spectral.website\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\spectral.website\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\spectral.website\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\spectral.website\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\spectral.website\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\spectral.website\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\spectral.website\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\spectral.website\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://spectral.website/
+File Name: C:\Downloaded Web Sites\spectral.website\index.htm
+Content Type: text/html
+
+Uri: https://spectral.website/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\spectral.website\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://spectral.website/assets/css/bootsnav.css
+File Name: C:\Downloaded Web Sites\spectral.website\assets\css\bootsnav.css
+Content Type: text/css
+
+Uri: https://spectral.website/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\spectral.website\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://spectral.website/assets/css/cubeportfolio.css
+File Name: C:\Downloaded Web Sites\spectral.website\assets\css\cubeportfolio.css
+Content Type: text/css
+
+Uri: https://spectral.website/assets/css/custom-icons.min.css
+File Name: C:\Downloaded Web Sites\spectral.website\assets\css\custom-icons.min.css
+Content Type: text/css
+
+Uri: https://spectral.website/assets/css/icofont.min.css
+File Name: C:\Downloaded Web Sites\spectral.website\assets\css\icofont.min.css
+Content Type: text/css
+
+Uri: https://spectral.website/assets/css/master.css
+File Name: C:\Downloaded Web Sites\spectral.website\assets\css\master.css
+Content Type: text/css
+
+Uri: https://spectral.website/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\spectral.website\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://spectral.website/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\spectral.website\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://spectral.website/assets/fonts/et-line.eot
+File Name: C:\Downloaded Web Sites\spectral.website\assets\fonts\et-line.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spectral.website/assets/fonts/et-line.eot?
+File Name: C:\Downloaded Web Sites\spectral.website\assets\fonts\et-line-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spectral.website/assets/fonts/et-line.svg
+File Name: C:\Downloaded Web Sites\spectral.website\assets\fonts\et-line.svg
+Content Type: image/svg+xml
+
+Uri: https://spectral.website/assets/fonts/et-line.ttf
+File Name: C:\Downloaded Web Sites\spectral.website\assets\fonts\et-line.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://spectral.website/assets/fonts/et-line.woff
+File Name: C:\Downloaded Web Sites\spectral.website\assets\fonts\et-line.woff
+Content Type: application/x-font-woff
+
+Uri: https://spectral.website/assets/fonts/icofont.woff
+File Name: C:\Downloaded Web Sites\spectral.website\assets\fonts\icofont.woff
+Content Type: application/x-font-woff
+
+Uri: https://spectral.website/assets/fonts/icofont.woff2
+File Name: C:\Downloaded Web Sites\spectral.website\assets\fonts\icofont.woff2
+Content Type: 
+
+Uri: https://spectral.website/assets/fonts/ionicons.eot?v=2.0.0
+File Name: C:\Downloaded Web Sites\spectral.website\assets\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spectral.website/assets/fonts/ionicons.svg?v=2.0.0
+File Name: C:\Downloaded Web Sites\spectral.website\assets\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://spectral.website/assets/fonts/ionicons.ttf?v=2.0.0
+File Name: C:\Downloaded Web Sites\spectral.website\assets\fonts\ionicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://spectral.website/assets/fonts/ionicons.woff?v=2.0.0
+File Name: C:\Downloaded Web Sites\spectral.website\assets\fonts\ionicons.woff
+Content Type: application/x-font-woff
+
+Uri: https://spectral.website/assets/images/cbp-loading.gif
+File Name: C:\Downloaded Web Sites\spectral.website\assets\images\cbp-loading.gif
+Content Type: image/gif
+
+Uri: https://spectral.website/assets/images/cbp-sprite.png
+File Name: C:\Downloaded Web Sites\spectral.website\assets\images\cbp-sprite.png
+Content Type: image/png
+
+Uri: https://spectral.website/assets/images/favicon.ico
+File Name: C:\Downloaded Web Sites\spectral.website\assets\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://spectral.website/assets/images/logo-black.png
+File Name: C:\Downloaded Web Sites\spectral.website\assets\images\logo-black.png
+Content Type: image/png
+
+Uri: https://spectral.website/assets/images/logo-white.png
+File Name: C:\Downloaded Web Sites\spectral.website\assets\images\logo-white.png
+Content Type: image/png
+
+Uri: https://spectral.website/assets/images/slides/Spectral_Main.jpg
+File Name: C:\Downloaded Web Sites\spectral.website\assets\images\slides\Spectral_Main.jpg
+Content Type: image/jpeg
+
+Uri: https://spectral.website/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\spectral.website\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/assets/js/master.js
+File Name: C:\Downloaded Web Sites\spectral.website\assets\js\master.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/assets/js/plugins.js
+File Name: C:\Downloaded Web Sites\spectral.website\assets\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/assets/js/smoothscroll.js
+File Name: C:\Downloaded Web Sites\spectral.website\assets\js\smoothscroll.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/index.html
+File Name: C:\Downloaded Web Sites\spectral.website\index.html
+Content Type: text/html
+
+Uri: https://spectral.website/revolution/css/layers.css
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\css\layers.css
+Content Type: text/css
+
+Uri: https://spectral.website/revolution/css/navigation.css
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\css\navigation.css
+Content Type: text/css
+
+Uri: https://spectral.website/revolution/css/revolution.addon.particles.css?ver=1.0.3
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\css\revolution.addon.particles.css
+Content Type: text/css
+
+Uri: https://spectral.website/revolution/css/settings.css
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\css\settings.css
+Content Type: text/css
+
+Uri: https://spectral.website/revolution/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://spectral.website/revolution/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://spectral.website/revolution/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\fonts\revicons\revicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://spectral.website/revolution/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\fonts\revicons\revicons.woff
+Content Type: application/x-font-woff
+
+Uri: https://spectral.website/revolution/js/jquery.themepunch.revolution.min.js
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/revolution/js/jquery.themepunch.tools.min.js
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/revolution/js/revolution.addon.particles.min.js?ver=1.0.3
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\js\revolution.addon.particles.min.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/revolution/js/revolution.extension.actions.min.js
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\js\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/revolution/js/revolution.extension.carousel.min.js
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\js\revolution.extension.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/revolution/js/revolution.extension.kenburn.min.js
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\js\revolution.extension.kenburn.min.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/revolution/js/revolution.extension.layeranimation.min.js
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\js\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/revolution/js/revolution.extension.migration.min.js
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\js\revolution.extension.migration.min.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/revolution/js/revolution.extension.navigation.min.js
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\js\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/revolution/js/revolution.extension.parallax.min.js
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\js\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/revolution/js/revolution.extension.slideanims.min.js
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\js\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/revolution/js/revolution.extension.video.min.js
+File Name: C:\Downloaded Web Sites\spectral.website\revolution\js\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: https://spectral.website/Spectral_Engine.exe
+File Name: C:\Downloaded Web Sites\spectral.website\Spectral_Engine.exe
+Content Type: application/x-msdownload
+
